@@ -5,8 +5,8 @@
       {
          "id":1,
          "judule":"How To Train Your Dragon",
-         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/addon_how_to_train_your_dragon.webp",
-         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/addon_how_to_train_your_dragon.zip",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/how_to_train_your_dragon.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/how_to_train_your_dragon.zip",
          "typeMCPE":"Addon",
          "html_file":"https:\/\/livemovies.club\/mcpe_html\/how_to_train_your_dragon_addon.html",
          "extension":"mcaddon",
