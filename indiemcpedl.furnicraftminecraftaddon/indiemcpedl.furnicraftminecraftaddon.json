@@ -1,0 +1,76 @@
+{
+   "info":"success",
+   "num":8,
+   "result":[
+      {
+         "id":30,
+         "judule":"Furnicraft Furniture Addon",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/furnicraft.webp",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/furnicraft_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/furnicraft.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on adds many decorations, furniture, more villagers.\n\nThere is everything from kitchen utensils and bathroom equipment to things like a stove, shower products and entertainment-related things, like a pool table and a PC for games.\n\nIt is a great addon if you want more options to decorate your home.\n\nCreator: twitter.com\/ROBERTGAMER69"
+      },
+      {
+         "id":395,
+         "judule":"Lance Furniture Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/lance_furniture_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/lance_furniture_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/lance_furniture_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Add some useful decoration to your Minecraft worlds. A fridge, coffeemaker, toaster, microwave and more. \n\nThe furniture actually works and its easy to use and with its new redesigned textures they will surely fit well in your house.Created by Lancelot, from Livecraft Team"
+      },
+      {
+         "id":396,
+         "judule":"Loled Furniture Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/loled_furniture_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/loled_furniture_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/loled_furniture_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Looking for a beautiful and modern furniture addon? \n\nYoure in the right place!Loled Furniture adds over 100 blocks and several of these blocks are functional!"
+      },
+      {
+         "id":397,
+         "judule":"Peepss Furniture Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/peepss_furniture_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/peepss_furniture_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/peepss_furniture_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"An add-on that adds new furniture, with great variations and possibilities! \n\nWith tables that you can mold to your taste, and more!In addition to furniture that has interactions! Enjoy! This is the NEW ERA OF PEEPSSS FURNITURE!Creator: twitter.com\/ddpeepsss"
+      },
+      {
+         "id":412,
+         "judule":"Furnideco Furniture Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/furnideco_furniture_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/furnideco_furniture_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/furnideco_furniture_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"FurniDeco adds 25 pieces of functional, decorative and unique-looking furniture that fit with the vanilla style.\r\n\r\nWith more than 80 variants in total, FurniDeco gives you endless options to furniture & decorate your builds!\r\n\r\nFeatures:- 25 Unique pieces of furniture & decorations, up to 80+ variants\r\n- Fully customizable\r\n- Interactive and functional\r\n- Fits with the Minecraft Vanilla feel\r\n- Craft-able in survival mode\r\n- Uses blocks"
+      },
+      {
+         "id":420,
+         "judule":"Medieval Furniture Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/medieval_furniture_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/medieval_furniture_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/medieval_furniture_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Do you want to decorate your medieval houses but you can't do it with the game blocks?\n\nThis addon adds many new blocks with 3D models to create epic decorations. Now supports resource packsThis addon adds many new blocks with all types of wood and is compatible with resource packs. All the 3D models were created by me and I used some Minecraft textures for some blocks. With these blocks they can decorate many places in their medieval houses."
+      },
+      {
+         "id":421,
+         "judule":"Modern Furniture Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/modern_furniture_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/modern_furniture_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/modern_furniture_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Modern Furniture is a decoration add-on prepared both for a survival world and for a creative game.\n\nThe addon brings more than 270 furniture with color variants and much more!"
+      }
+   ]
+}
