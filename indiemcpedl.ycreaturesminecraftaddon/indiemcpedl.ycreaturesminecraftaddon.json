@@ -1,0 +1,96 @@
+{
+   "info":"success",
+   "num":1,
+   "result":[
+      {
+         "id":456,
+         "judule":"Ycreatures Addon",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/addons/main/ycreatures.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/addons/main/ycreatures.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https://raw.githubusercontent.com/mcfilescloud/addons/main/ycreatures.html",
+         "extension":"mcaddon",
+         "deskripsine":"yCreatures, an amazing super complete add-on that brings even more fun to your Minecraft worlds!!\n\nThis addon contains several new animals for your game, some cute, some not so friendly, but all amazing and super fun, with various varieties of animation, behavior, models and textures."
+      },
+      {
+         "id":409,
+         "judule":"Domestic Pets Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/domestic_pets_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/domestic_pets_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/domestic_pets_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"Domestic Pets, an amazing super complete add-on that brings even more fun to your Minecraft worlds!\n\nThis addon currently contains more than 13 species of domestic animals for you to have in your worlds and with more than 80 variations of textures and models in total, with a lot of diversity and some fun easter eggs!"
+      },
+      {
+         "id":453,
+         "judule":"World Animals Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/world_animals_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/world_animals_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/world_animals_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"With this add-on you add a variety of new animals that will appear in our Minecraft worlds.\n\nMost animals are aggressive, others can be domesticated to defend against mobs and some animals can be ridden."
+      },
+      {
+         "id":155,
+         "judule":"Animals Skins",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/animals_skins.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_skins\/animals_skins.zip",
+         "typeMCPE":"Skins",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/animals_skins.html",
+         "extension":"mcpack",
+         "deskripsine":"7 cute and unique little animal skins! I definitely suggest this skin pack to all the animal lovers out there!\n\nEverything from a Bear to a Chicken, this skin pack is a lovely take on animals in a pixel form.\n\nSkins included:\n1. \u201cBrown Bear\u201d \n2. \u201cPolar Bear\u201d\n3. \u201cLion\u201d\n4. \u201cTiger\u201d\n5. \u201cChicken\u201d\n6. \u201cFox\u201d\n7. \u201cBird\u201d\n\nCreator: Endercraft Studios"
+      },
+      {
+         "id":13,
+         "judule":"Billeys Mobs Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/billeys_mobs_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/billeys_mobs_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/billeys_mobs_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This is an add-on which implements 13 brand-new mobs to the game.\n\nThe mobs include everything from sea creatures such as the Angler Fish and Swordfish to mobs which live on land such as the Skeleton Cat.\n\nIt\u2019s a great addition to the game if you want to experience something completely new in Minecraft!\n\nCreator: billeyzambie"
+      },
+      {
+         "id":53,
+         "judule":"Mythic Mobs Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/mythic_mobs_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/mythic_mobs_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/mythic_mobs_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This addon replaces five mobs in Minecraft with 5 mythical monsters.\n\nAll of the mobs are hostile during all hours of the day except for the werewolf which only turns dangerous during the night.\n\nThe mobs look really frightening and is a really good addition to the game if you want a complete new set of mobs to fight!\n\nCreator: twitter.com\/TheEnderface"
+      },
+      {
+         "id":398,
+         "judule":"Nether Mobs Concept Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/nether_mobs_concept_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/nether_mobs_concept_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/nether_mobs_concept_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This add-on brings you who want to know the new mobs of the nether update that is available for now only for java edition, Hoglin and Piglin!You will have an experience similar to snapshots released for java, since they have the behaviors almost identical to this add-on!"
+      },
+      {
+         "id":405,
+         "judule":"Better Mob Animations Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/better_mob_animations_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/better_mob_animations_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/better_mob_animations_addon.html",
+         "extension":"mcpack",
+         "deskripsine":"Are you bored of the default vanilla mob animations? Well, this addon will spice things up with new and improved minecraft vanilla mob animations! Plus, you can also play with achievements with this resource pack and no need for any experimental toggles!This addon currently has selected mobs with new animations, as time goes by, this addon will be updated to all mobs getting a brand new set of animations!"
+      },
+      {
+         "id":426,
+         "judule":"Mowzies Mobs Addon",
+         "icone":"https:\/\/livemovies.club\/mcpe_icons\/mowzies_mobs_addon.jpg",
+         "file_url":"https:\/\/livemovies.club\/mcpe_addons\/mowzies_mobs_addon.zip",
+         "typeMCPE":"Addon",
+         "html_file":"https:\/\/livemovies.club\/mcpe_html\/mowzies_mobs_addon.html",
+         "extension":"mcaddon",
+         "deskripsine":"This is a Non Official version for Minecraft Bedrock Edition we are not the owners of Original Mowzie's Mobs mod from Java Edition, we have all the perms to do it, this addon is only created by Gabriel Cape and Just Mr Devil.Mowzie's Mobs mod, created originally by Bob mowzie, adds a variety of fictional creatures to Minecraft, priding itself in unique AI, environmental and atmospheric appropriateness, and standard-setting animations. "
+      }
+   ]
+}
