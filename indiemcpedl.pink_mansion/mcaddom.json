@@ -1,0 +1,116 @@
+{
+   "info":"success",
+   "num":999,
+   "result":[
+      {
+         "id":2,
+         "judule":"Loled Furniture",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/loled_furniture.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/loled_furniture.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"Looking for a beautiful and modern furniture addon? You're in the right place!\nLoled Furniture adds over 200 blocks and several of these blocks are functional!\n\nNote: Enable all experimental gameplay"
+      },
+      {
+         "id":11,
+         "judule":"yCreatures",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/ycreatures.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/ycreatures.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"This addon contains 100 new animals for your game, some cute, some not so friendly, but all amazing and super fun, with various varieties of animation, behavior, models and textures."
+      },
+      {
+         "id":1,
+         "judule":"X Ray Textuer Pack",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/x_ray_texture_pack.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/x_ray_texture_pack.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"Have you ever thought, its hard to find those Diamonds or Caves, or you are playing on a server but you can't find any Bases? Well fear no more! Just use X-Ray!"
+      },
+      {
+         "id":3,
+         "judule":"Elemental Swords",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/elemental_sword.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/elemental_sword.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"Elemental Sword is an addon that adds magical swords with powers. In this version, you can find the fire sword and the blue fire sword; their hidden power generates a circle of fire that burns nearby enemies."
+      },
+      {
+         "id":4,
+         "judule":"How to train your dragons",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/httyd.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/httyd.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"How to Train Your Dragon will be a new addon for Craftsman, which will have most of the franchise's dragons."
+      },
+      {
+         "id":5,
+         "judule":"More Swords",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/more_swords.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/more_swords.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"This addon adds more than 30 new and unique swords!"
+      },
+      {
+         "id":6,
+         "judule":"Morph Mod",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/morph_addon.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/morph_addon.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"This mod grants you the power of transformation! With a variety of craftable tools, you can become any mob in craftsman game!"
+      },
+      {
+         "id":7,
+         "judule":"SCP Foundation",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/scp.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/scp.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"This Add-on added new mobs from the SCP universe into craftsman world, each mob will have their own ability, If you a fan of the SCP foundation page then this addon is for you"
+      },
+      {
+         "id":8,
+         "judule":"TNT Destructive",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/tnt_destructive.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/tnt_destructive.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"This mod will Adds 32 new TNT’s to your Minecraft game, x5, x20, x50, x100, x500, napalm, nuke, fake, god, fast, small, no texture, mining TNT, bad quality TNT, Knockback TNT, Fire TNT, Fast TNT x15, Dynamite, Dynamite x5, Dynamite x20, Dynamite x50, Dynamite x100, Dynamite x500, Napalm Dynamite, Nuke Dynamite, Fake Dynamite, God dynamite, Small Dynamite, No Texture Dynamite, Mining Dynamite, Bad Quality Dynamite, And Fire Dynamite! "
+      },
+      {
+         "id":9,
+         "judule":"Transformer",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/transformer.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/transformer.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"Unleash your inner Autobot or Decepticon as you traverse through mesmerizing landscapes inspired by the Transformers: Rise of the Beasts film. Engage in epic battles against fellow players or hostile mobs, showcasing your strategic prowess and combat skills."
+      },
+      {
+         "id":10,
+         "judule":"Undertale",
+         "icone":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/undertale.webp",
+         "file_url":"https://raw.githubusercontent.com/mcfilescloud/mcaddom1.20/main/undertale.zip",
+         "typeMCPE":"typeMCPE",
+         "html_file":"html_file",
+         "extension":"mcaddom",
+         "deskripsine":"This mod brings undertale like sans, gaster etc to the craftsman game."
+      }
+   ]
+}
